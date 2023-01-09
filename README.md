@@ -6,6 +6,10 @@ Basics about git you should start with it .
  - why is that useful in our case 
  -  alternative for github
 -   git sheet
+> "all important commands"
+- CICD
+- agile board 
+- github actions "devops"
 -   **git flow** 
 -   pull requests  
 
